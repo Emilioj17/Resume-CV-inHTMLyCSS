@@ -1,0 +1,23 @@
+.headerAzul{
+    background-color:#3B5DBD;
+    color:whitesmoke; 
+    text-shadow:1px 1px 0 #444;
+    padding-left: 30px;    
+}
+
+.headerAzul>*{
+    opacity: 0.5;
+}
+
+.w3-padding-16{
+    color:#994F48;
+}
+
+ul{
+    color:#291513;
+}
+
+span{
+    color:#291513;
+}
+
